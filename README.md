@@ -36,7 +36,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 
 ## 📈 GitHub Stats 
-(https://github-readme-stats.vercel.app/api?username=harishitarana)](https://github.com/harishitarana)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=harishitarana)](https://github.com/harishitarana)
 
 (https://github-readme-stats.vercel.app/api/top-langs/?username=harishitarana&layout=compact)](https://github.com/harishitarana)
 
