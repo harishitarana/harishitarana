@@ -38,7 +38,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=harishitarana)](https://github.com/harishitarana)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=harishitarana&layout=compact)](https://github.com/harishitarana)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishitarana&layout=compact)](https://github.com/harishitarana)
 
 
 
