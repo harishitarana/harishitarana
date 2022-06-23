@@ -17,10 +17,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
+-Internship @LocktheDeal company as front-end Developer
 - My own projects
 - My CSS skill
 - My React and Javascript skills
-- 
+
 ## 🌱 I'm currently learning
 
 - 📱 React Native
