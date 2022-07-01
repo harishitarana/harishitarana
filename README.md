@@ -11,7 +11,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/harishita-rana-349807206/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="harishitarana@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail | Harishita Rana" width="61px" /> </a>
+Mail:-harishitarana@gmail.com
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
