@@ -35,7 +35,7 @@ Mail:-harishitarana@gmail.com
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishitarana &show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harishitarana&show_icons=true"/>
 
 
 
